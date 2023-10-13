@@ -1,13 +1,12 @@
-package kr.co.sboard.service;
+package co.kr.lotte.service;
 
 
-import kr.co.sboard.dto.UserDTO;
-import kr.co.sboard.entity.TermsEntity;
-import kr.co.sboard.entity.UserEntity;
-import kr.co.sboard.repository.TermsRepository;
-import kr.co.sboard.repository.UserRepository;
+import co.kr.lotte.dto.UserDTO;
+import co.kr.lotte.entity.TermsEntity;
+import co.kr.lotte.entity.UserEntity;
+import co.kr.lotte.repository.TermsRepository;
+import co.kr.lotte.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.parameters.P;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 

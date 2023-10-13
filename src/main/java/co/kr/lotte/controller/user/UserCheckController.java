@@ -1,7 +1,7 @@
-package kr.co.sboard.controller.user;
+package co.kr.lotte.controller.user;
 
 
-import kr.co.sboard.service.UserService;
+import co.kr.lotte.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

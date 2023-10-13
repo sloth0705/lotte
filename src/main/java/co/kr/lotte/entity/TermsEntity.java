@@ -1,4 +1,4 @@
-package kr.co.sboard.entity;
+package co.kr.lotte.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

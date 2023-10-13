@@ -1,6 +1,6 @@
-package kr.co.sboard.repository;
+package co.kr.lotte.repository;
 
-import kr.co.sboard.entity.UserEntity;
+import co.kr.lotte.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<UserEntity, String> {

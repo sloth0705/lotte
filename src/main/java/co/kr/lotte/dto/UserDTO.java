@@ -1,10 +1,6 @@
-package kr.co.sboard.dto;
+package co.kr.lotte.dto;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-import kr.co.sboard.entity.UserEntity;
+import co.kr.lotte.entity.UserEntity;
 import lombok.*;
 
 import java.time.LocalDateTime;

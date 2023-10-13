@@ -1,6 +1,6 @@
-package kr.co.sboard.repository;
+package co.kr.lotte.repository;
 
-import kr.co.sboard.entity.TermsEntity;
+import co.kr.lotte.entity.TermsEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
